@@ -15,8 +15,7 @@ BadLink intercepts network packets at the kernel level using WinDivert and can s
 | Jitter | Adds a variable delay to packets | Separate min/max ms |
 
 ## Screenshots:
-<img width="1414" height="704" alt="2025-09-09_16-12" src="https://github.com/user-attachments/assets/ffaa2a60-43f9-46cd-822f-3ca56a1ce7ee" />
-
+<img width="1280" height="700" alt="2025-09-09_16-12" src="https://github.com/user-attachments/assets/3ef4de43-d360-4779-9a24-865c82a0a91f" />
 
 ## Built with
 
